@@ -1,0 +1,6 @@
+"\n"+ShapesEnum.ShapeType.COMPOSITESHAPE,
+                                            "\n"+ShapesEnum.ShapeType.POINT,"1","1",
+                                            "\n"+ShapesEnum.ShapeType.LINE,"1","1","4","5",
+                                            "\n"+ShapesEnum.ShapeType.CIRCLE,"0","0","5",
+                                            "\n"+ShapesEnum.ShapeType.TRIANGLE,"0","0","3","0","3","4",
+                                            "\n"+ShapesEnum.ShapeType.RECTANGLE,"0","0","4","0","4","4","0","4"

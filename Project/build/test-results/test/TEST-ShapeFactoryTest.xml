@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShapeFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-19T22:04:13" hostname="LAPTOP-551H3L1M" time="0.026">
+  <properties/>
+  <testcase name="testValidConstruction" classname="ShapeFactoryTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
